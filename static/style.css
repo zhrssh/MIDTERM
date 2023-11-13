@@ -1,4 +1,6 @@
 body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
     justify-content: center;
     align-content: center;
 }
@@ -6,4 +8,5 @@ body {
 form {
     justify-items: center;
     align-items: center;
+    border: 1px black
 }
